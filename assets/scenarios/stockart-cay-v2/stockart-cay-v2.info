@@ -1,0 +1,277 @@
+HeaderInfo =  
+{
+	mapsize =  
+	{
+		384,
+		384,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -19.38141,
+			y = -72.64032,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -124.86260,
+			y = 80.32419,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = 97.66931,
+			y = 62.94579,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = -157.04881,
+			y = 22.49810,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = -112.91461,
+			y = 30.85168,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = -125.96865,
+			y = 139.94984,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = 118.10764,
+			y = 132.17043,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -79.77560,
+			y = 76.37183,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = 72.35877,
+			y = 72.90936,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = -11.46043,
+			y = 77.96740,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = 156.82130,
+			y = 40.13012,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = 109.95272,
+			y = 8.31790,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = 23.73655,
+			y = 143.96625,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = -10.50775,
+			y = -77.82273,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_high",
+			owner_id = 0,
+			x = -6.51871,
+			y = -27.14808,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1000,
+			x = -147.15848,
+			y = -134.14502,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1002,
+			x = -147.04372,
+			y = -102.66095,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1004,
+			x = -147.18805,
+			y = -72.26121,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1006,
+			x = -146.91545,
+			y = -39.41953,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1001,
+			x = 146.84314,
+			y = -135.54163,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1003,
+			x = 147.03238,
+			y = -103.52321,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1005,
+			x = 146.79875,
+			y = -71.51420,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1007,
+			x = 146.72308,
+			y = -40.38075,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "(8) Stockart Cay v2",
+	slots =  
+	{
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+	},
+	version = 3001,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+

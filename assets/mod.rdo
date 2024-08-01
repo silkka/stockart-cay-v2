@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Mod/-->
+	<DataObject Name="stockart-cay-v2" Type="Mod" Id="18014310437425033207" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">6278803336214441371</DataValue>
+			<!--Mod/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="6278803336214441371" OwnerId="18014310437425033207">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="0"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">3970180204059129858</DataValue>
+			<!--Mod/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="3970180204059129858" OwnerId="18014310437425033207">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="2654637459"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="4230179915"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="531198730"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1166923777"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+
